@@ -6,4 +6,6 @@ javaClient 프로젝트는 Spring Boot ( MVC ) 로 구현하였으며, javaAPI (
 이후, javaAPI ( API Server ) 로 부터 전달 받은 데이터를 화면에 노출해줍니다.
 ( javaAPI 는 실질적으로 API 를 호출하고 데이터를 javaClient 에 전달해줍니다. )
 
-javaClient/javaAPI 개발에 대한 설명입니다. [javaAPI.pptx](https://github.com/ohhyunmin/javaClient/files/7486974/javaAPI.pptx)
+javaClient/javaAPI 개발에 대한 설명입니다.
+(API 상에서 임의의 날짜를 지정하여 호출 시 API 에 문제가 있는 것으로 판단하여 임의의 날짜를 지정하여 개발하였습니다.)
+[javaAPI.pptx](https://github.com/ohhyunmin/javaClient/files/7486974/javaAPI.pptx)
